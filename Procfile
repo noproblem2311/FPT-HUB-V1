@@ -1,1 +1,1 @@
-web: gunicorn fpthub.wsgi
+web: gunicorn fpthubv1.wsgi
